@@ -15,6 +15,8 @@
   
 ### Languages and Tools:
 <div id="badges">
+<img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" alt="XCode" width="32" height="32"/>
+</a>
 <img width="32px" src="https://img.icons8.com/fluency/48/000000/swift.png"/>
 </a>
 <img width="32px" src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>
@@ -22,4 +24,6 @@
 <img width="32px" src="https://img.icons8.com/color/48/000000/git.png"/>
 </a>
 <img width="32px" src="https://img.icons8.com/color/48/000000/swiftui.png"/>
+</a>
+<img src="https://avatars.githubusercontent.com/u/7575099?s=200&v=4" title="Realm" alt="Realm" width="32" height="32"/>
 </a>
